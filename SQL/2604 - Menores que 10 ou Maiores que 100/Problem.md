@@ -6,7 +6,7 @@
 O setor financeiro da empresa precisa de um relatório que mostre o código e o nome dos produtos cujo preço são menores que 10 ou maiores que 100.
 
 **Esquema**
-| products  |
+| products  | |
 | :------------ | :------------ |
 | Coluna | Tipo |
 | id (PK) | numeric  |
@@ -15,7 +15,7 @@ O setor financeiro da empresa precisa de um relatório que mostre o código e o 
 | price | numeric |
 									
 **Tabelas**
-| products |
+| products | | | |
 | :------------ | :------------ | :------------ | :------------ |
 | id | name | amount | price |
 | 1 | Two-door wardrobe | 100 | 80 |

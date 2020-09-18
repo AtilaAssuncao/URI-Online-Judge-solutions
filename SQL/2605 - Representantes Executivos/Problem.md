@@ -8,7 +8,7 @@ O setor financeiro precisa de um relatório sobre os fornecedores dos produtos q
 Seu trabalho é retornar os nomes dos produtos e dos fornecedores cujo código da categoria é 6.
 
 **Esquema**
-| products |
+| products | |
 | :------------ | :------------ |
 | Coluna | Tipo |
 | id (PK) | numeric |
@@ -18,7 +18,7 @@ Seu trabalho é retornar os nomes dos produtos e dos fornecedores cujo código d
 | id_providers (FK) | numeric |
 | id_categories (FK) | numeric |
 
-| providers  |
+| providers  | |
 | :------------ | :------------ |
 | Coluna | Tipo |
 | id (PK) | numeric |
@@ -27,7 +27,7 @@ Seu trabalho é retornar os nomes dos produtos e dos fornecedores cujo código d
 | city | varchar |
 | state | char |
 
-| categories |
+| categories | |
 | :------------ | :------------ |
 | Coluna | Tipo |
 | id (PK) | numeric |
@@ -35,7 +35,7 @@ Seu trabalho é retornar os nomes dos produtos e dos fornecedores cujo código d
 									
 
 **Tabelas**
-| products |
+| products | | | | | |
 | :------------ | :------------ | :------------ | :------------ | :------------ | :------------ |
 | id | name | amount | price | id_providers | id_categories |
 | 1 | Two-door wardrobe | 100 | 800 | 6 | 8 |
@@ -45,7 +45,7 @@ Seu trabalho é retornar os nomes dos produtos e dos fornecedores cujo código d
 | 5 | Chair | 3000 | 210.64 | 3 | 6 |
 | 6 | Single bed | 750 | 460 | 1 | 2 |
 
-| providers |
+| providers | | | | |
 | :------------ | :------------ | :------------ | :------------ | :------------ |
 | id | name | street | city | state |
 | 1 | Henrique | Av Brasil | Rio de Janeiro | RJ |
@@ -55,7 +55,7 @@ Seu trabalho é retornar os nomes dos produtos e dos fornecedores cujo código d
 | 5 | Isabela Moraes | Av Juiz Grande | Curitiba | PR |
 | 6 | Francisco Accerr | Av Paulista | São Paulo | SP |
 
-| categories |
+| categories | |
 | :------------ | :------------ |
 | id | name |
 | 1 | old stock |

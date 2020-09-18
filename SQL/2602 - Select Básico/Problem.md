@@ -19,8 +19,8 @@ Então você deve Exibir o nome de todos os clientes cujo estado seja ‘RS’.
 | credit_limit	| number |
 
 **Entrada**
-| customers |
-| :------------ | :------------ | :------------ | :------------ |
+| customers | | | | | |
+| :------------ | :------------ | :------------ | :------------ |:------------ | :------------ |
 | id | name |	street |	city | state |	credit_limit |
 | 1 | Pedro Augusto da Rocha | Rua Pedro Carlos Hoffman | Porto Alegre | RS | 700,00	|
 | 2 | Antonio Carlos Mamel | Av. Pinheiros |	Belo Horizonte | MG | 3500,50	|
