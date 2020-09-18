@@ -27,6 +27,7 @@ O setor financeiro da empresa precisa de um relatório que mostre o código e o 
 
 **Exemplo de Saída**
 | id | name |
+| :------------ | :------------ |
 | 2 | Dining table |
 | 3 | Towel holder |
 | 5 | Chair |
