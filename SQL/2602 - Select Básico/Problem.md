@@ -1,6 +1,6 @@
 <center>
-	<small></small>
-	<h3></h3>
+	<small>URI Online Judge SQL | 2602</small>
+	<h3>Select Básico</h3>
 </center>
 
 Sua empresa está fazendo um levantamento de quantos clientes estão cadastrados nos estados, porém, faltou levantar os dados do estado do Rio Grande do Sul.
