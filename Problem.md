@@ -10,11 +10,12 @@
 
 **Saída**
 
+
 |  Exemplos de Entrada  | Exemplos de Saída  |
 | :------------ | :------------ |
-|   	 |        |
-|     |        |
-|     |        |
+|  |  |
+|  |  |
+|  |  |
 
 
 
