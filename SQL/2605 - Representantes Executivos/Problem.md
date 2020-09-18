@@ -71,6 +71,7 @@ Seu trabalho é retornar os nomes dos produtos e dos fornecedores cujo código d
 
 **Exemplo de Saída**
 | name | name |
+| :------------ | :------------ |
 | Computer desk | Guilerme Staff |
 | Chair | Caroline Silva |
 
