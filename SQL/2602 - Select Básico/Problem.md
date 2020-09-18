@@ -8,7 +8,7 @@ Sua empresa está fazendo um levantamento de quantos clientes estão cadastrados
 Então você deve Exibir o nome de todos os clientes cujo estado seja ‘RS’.
 
 **Esquema**
-| customers |
+| customers | |
 | :------------ | :------------ |
 | Coluna	 | Tipo 	|
 | id (PK)	 | numeric |
@@ -31,6 +31,7 @@ Então você deve Exibir o nome de todos os clientes cujo estado seja ‘RS’.
 
 **Saída**
 | name	|
+| :------------ |
 | Pedro Augusto da Rocha	|
 | Jane Ester	|
 | Marcos Antônio dos Santos |
